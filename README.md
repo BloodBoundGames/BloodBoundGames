@@ -1,30 +1,21 @@
-- 👋 Hi, I’m @BloodBoundGames
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+# Hello there! 👋
 
 ###
 
 <h2 align="left">About me</h2>
 
+- 😘 I’m Arianna, a game and full stack developer 💻 and a digital artist 🎨
+- 🎯 I want to have my own game stuido 🎮 and make games for a living 💸
+- 📚 I'm autodidact, so I'm constantly learning new skills 🏹 and I love to get involved in new projects 🚀
+- 🔥 Against wokes meddling into development 🚫 (or anything really!)
+
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-<h1 align="left">My social media</h1>
+<h2 align="left">My social media 🌐</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1uazZzZmIydWtwN2JldDJhczRjeXRtNmNoNWl1Y2VtaXRrNnV1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTrbSef1ELGO9ODQnq/giphy.gif"  />
 
 ###
 
@@ -54,7 +45,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with 👾</h2>
 
 ###
 
@@ -80,7 +71,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Stats 📊</h2>
 
 ###
 
@@ -88,4 +79,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Support 🙌</h2>
+
+###
+
+<p>You can support my work through kofi if you believe in the project. :3</p>
+ <a href="https://ko-fi.com/bloodboundgames" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Kofi&logo=kofi&label=&color=428566&logoColor=white&labelColor=&" height="35" alt="discord logo"  />
+</a>
 
