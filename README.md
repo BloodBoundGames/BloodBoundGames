@@ -1,5 +1,3 @@
-###
-
 <h2 align="left">About me</h2>
 
 - 😘 I’m Eowyn, a game and full stack developer 💻 and a digital artist 🎨
