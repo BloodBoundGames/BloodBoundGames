@@ -4,7 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-- 😘 I’m Arianna, a game and full stack developer 💻 and a digital artist 🎨
+- 😘 I’m Eowyn, a game and full stack developer 💻 and a digital artist 🎨
 - 🎯 I want to have my own game stuido 🎮 and make games for a living 💸
 - 📚 I'm autodidact, so I'm constantly learning new skills 🏹 and I love to get involved in new projects 🚀
 - 🔥 Against wokes meddling into development 🚫 (or anything really!)
