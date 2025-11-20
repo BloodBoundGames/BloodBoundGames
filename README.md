@@ -16,27 +16,27 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@BloodBoundGames" target="_blank">
+  <a href="https://www.youtube.com/@arigamedevs" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&" height="35" alt="youtube logo"  />
   </a>
   </br>
-  <a href="https://www.twitch.tv/eowynbbg" target="_blank">
+  <a href="https://www.twitch.tv/arigamedevs" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&e" height="35" alt="twitch logo"  />
   </a>
   </br>
-  <a href="https://www.tiktok.com/@bloodboundgames" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Tik Tok&logo=tiktok&label=&color=3b3a39&logoColor=white&labelColor=&e" height="35" alt="twitch logo"  />
+  <a href="https://www.tiktok.com/@arigamedevs" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=3b3a39&logoColor=white&labelColor=&e" height="35" alt="twitch logo"  />
   </a>
   </br>
   <a href="https://discord.gg/TwD4gHqyTH" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&" height="35" alt="discord logo"  />
   </a>
   </br>
-  <a href="https://x.com/BloodBoundDev" target="_blank">
+  <a href="https://x.com/arigamedevs" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1d1f21&logoColor=white&labelColor=&" height="35" alt="twitter logo"  />
   </a>
   </br>
-  <a href="https://www.instagram.com/bloodboundgames/" target="_blank">
+  <a href="https://www.instagram.com/arigamedevs/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&" height="35" alt="instagram logo"  />
   </a>
   <!--<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />-->
