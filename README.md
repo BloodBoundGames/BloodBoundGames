@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=3b3a39&logoColor=white&labelColor=&e" height="35" alt="twitch logo"  />
   </a>
   </br>
-  <a href="https://discord.gg/TwD4gHqyTH" target="_blank">
+  <a href="https://discord.gg/AuMeDgF47E" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&" height="35" alt="discord logo"  />
   </a>
   </br>
